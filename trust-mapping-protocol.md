@@ -39,8 +39,7 @@ It is important the participants understand the purpose and structure of the wor
 
 An example script is provided below:
 
-‘''
-{
+'
 Welcome to the workshop. The goal of this Trust Mapping exercise is to help you think in a socio-technical way about what it means to ‘have assurance’ in technical products and systems: in other words how you know that the systems you care about in your day-to-day work are secure. The exercise is designed to create an opportunity for you to reflect on things that are very familiar, and hopefully to think a little differently, to learn from each other, and to generate some ideas about what are the important issues and how you might make improvements.
 
 The workshop is structured using this deck of cards:
@@ -49,10 +48,7 @@ The workshop is structured using this deck of cards:
 - Once we have most of the relevant actors on the board, we use the green cards to trace how knowledge and information relevant to the security of our system of interest is shared between these actors (this may be via texts, documents or reports that move as digital or physical artefacts, word of mouth or even personal experience shared via the movement of people). 
 - We end up with an informal network diagram, with actors as nodes, and communication as the edges that connect them. The orange cards then provide us with prompts to think critically about, for instance, which actors are trusted, which mistrusted, about the issues that affect us and possible improvements that could be made.
 One really important point to make about trust mapping is that there is no single ‘right’ answer; there is no definitive diagram we’re looking for. This is all about discussing and drawing how things look to you. You might not know who has access to, for instance, key architectural documentation. But that is something we can use the session to think through, marking uncertainty on the diagram with question marks, or mapping out organisational knowledge: who would know where that key documentation could be found.
-
-}
-
-‘''
+'
 
 Before beginning, the facilitator should give participants an opportunity to ask questions. If the facilitator is taking notes for research data purposes, they should also use this opportunity to ensure participants understand the procedures for pseudonymisation, fictionalisation and approval.
 
