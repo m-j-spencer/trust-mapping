@@ -28,7 +28,7 @@ The facilitator should encourage the following behaviours throughout the session
 - No laptops or phones
 - One person speaks at a time
 - All participants listen and respond to the speaker
-- Everyone gets the change to speak
+- Everyone gets the chance to speak
 - All participants are engaging with the visualisation (pointing, drawing, annotating)
 
 The facilitator will lead the initial introductory discussion and the final wrap up and debrief. In the other sections of the workshop, facilitation should be lightweight and ‘hands off’, offering guidance, but allowing the prompt cards to provide the structure for the activity. 
